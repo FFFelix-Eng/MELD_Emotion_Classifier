@@ -1,0 +1,1 @@
+epoch,phase,loss,accuracy,weighted_f1,accuracy_anger,accuracy_disgust,accuracy_fear,accuracy_joy,accuracy_neutral,accuracy_sadness,accuracy_surprise,f1_anger,f1_disgust,f1_fear,f1_joy,f1_neutral,f1_sadness,f1_surprise

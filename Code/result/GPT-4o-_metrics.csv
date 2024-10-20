@@ -1,0 +1,2 @@
+epoch,phase,loss,accuracy,macro_f1
+0,test,N/A,0.4,0.1634920634920635
