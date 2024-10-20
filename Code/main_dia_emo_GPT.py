@@ -11,7 +11,7 @@ if __name__ == "__main__":
     data_path = '../data/text2/'  # Path to your data directory
     save_path = './models/'  # Path to save the trained model and metrics
 
-    load_dotenv('./proj_key.env')
+    # load_dotenv('./proj_key.env')
 
     # Ensure the save directory exists
     os.makedirs(save_path, exist_ok=True)

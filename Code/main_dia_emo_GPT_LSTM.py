@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
     csv_name=model_name
 
-    load_dotenv('proj_key.env')
+    # load_dotenv('proj_key.env')
 
     os.makedirs(save_path, exist_ok=True)
     os.makedirs(cache_dir, exist_ok=True)
