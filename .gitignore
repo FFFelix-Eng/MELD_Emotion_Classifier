@@ -1,4 +1,4 @@
-/Cache/*
-!Cache/.gitignore
-/glove.6B/*
-!glove.6B/.gitignore
+/Cache/
+!Cache/.gitkeep
+/glove.6B/
+!glove.6B/.gitkeep
